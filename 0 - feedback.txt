@@ -1,0 +1,12 @@
+add instructions for starting with preset rules
+for option menu on head button, change the value without tick button
+
+display rules needs to clear when restart
+more instructions, some features unclear 
+highlight running rule 
+descrition of turing machine function 
+manual mode is good for understanding 
+entering own instructions is useful 
+GUI is easy to read
+
+coloured segments for head pointer
